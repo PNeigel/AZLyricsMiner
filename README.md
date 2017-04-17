@@ -1,5 +1,5 @@
 # AZLyricsMiner
-Python script that mines all lyrics from an entered artist
+Python script that mines all lyrics from an entered artist from AZlyrics.com
 
 Example how this script creates files:
 
